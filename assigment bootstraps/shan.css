@@ -1,0 +1,88 @@
+body{
+    background-image: url(imge/pexels-omar-belattar-14031333.jpg) !important;
+}
+ 
+ 
+.navbar{
+    background-image: url(imge/pexels-omar-belattar-14031333.jpg) !important;
+    color: white!important;
+    width: 100% !important;
+}
+
+.card img{
+    height: 40% !important;
+    width: 40% !important;
+    align-self: center;
+    border: none !important;
+}
+h5,h2,h4{
+    text-align: center;
+    color: white !important;
+
+}
+.b{
+       color: brown;
+}
+.container{
+    border-color: brown !important;
+}
+.container{
+    color: white;
+}
+.card{
+    
+    
+     border: 2px solid rgb(123, 116, 116) !important;
+     border-radius: 20px !important;
+     backdrop-filter: blur(30px) !important
+    
+    
+}
+h5{
+    color: brown !important;
+}
+.d{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      justify-content: space-around;
+      
+}
+h6{
+    color:white !important ;
+}
+.footer{
+    background-image:url(imge/pexels-omar-belattar-14031333.jpg) !important ;
+}
+.text{
+    color: black !important;
+}
+p{ text-align: center;
+    color: white;
+}
+.c{
+    color: white;
+}
+.row{
+    position: relative;
+    /* width: 400px;
+    height: 450px; */
+
+     background: transparent;
+     border: 2px solid rgb(123, 116, 116);
+     border-radius: 20px;
+     backdrop-filter: blur(5px);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    
+
+     
+      
+     
+     
+      
+      
+       
+
+}
